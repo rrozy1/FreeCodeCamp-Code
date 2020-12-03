@@ -1,2 +1,2 @@
-# FreeCodeCamp-Code
+# FreeCodeCamp-Pics
 Coding projects for FreeCodeCamp
