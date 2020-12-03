@@ -1,2 +1,2 @@
 # FreeCodeCamp-Pics
-Coding projects for FreeCodeCamp
+Picture repository via issues for use on CodePen
